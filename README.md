@@ -1,2 +1,2 @@
-# Project-Euler
-Project Euler solved problems 
+# Project-Euler  
+Will be adding solutions to the problems of Project Euler. 
